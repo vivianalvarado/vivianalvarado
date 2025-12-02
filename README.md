@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hola, soy Vivian Alvarado 👋
+**Desarrolladora Full Stack & Emprendedora**
 
-<!--
-**vivianalvarado/vivianalvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy construyendo soluciones tecnológicas reales en Trujillo, Perú. Me enfoco en arquitectura limpia, PHP moderno y bases de datos eficientes.
 
-Here are some ideas to get you started:
+🔭 **Trabajando actualmente en:**
+- **Cell Market Shop (Privado):** Liderando el desarrollo de la plataforma e-commerce y sistema de gestión.
+  - *Stack:* PHP 8, Composer, MySQL, Arquitectura MVC.
+  - *Estado:* Despliegue a producción en Nov 2025.
+- **Florería Digital:** Creando una experiencia de compra online para el mercado retail local.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Mi Stack Tecnológico:**
+- 💻 **Backend:** PHP (Laravel/Native), Java, Python.
+- 🗄 **Data:** Oracle Certified, MySQL.
+- 🐧 **Ops:** RedHat Linux, Git.
+
+📫 **Contáctame:** [Tu LinkedIn](https://www.linkedin.com/in/vivianalvarado)
