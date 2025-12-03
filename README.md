@@ -29,8 +29,9 @@ Actualmente construyendo soluciones tecnológicas reales en **Trujillo, Perú**.
 
 ---
 
-### 📊 Mis Estadísticas
+### 🏆 Mis Logros en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivianalvarado&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianalvarado&layout=compact&theme=tokyonight&hide_border=true&card_width=320&hide=html" height="150" alt="languages graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vivianalvarado&theme=onedark&column=4&margin-w=15&margin-h=15" alt="vivianalvarado" />
+  </a>
 </div>
