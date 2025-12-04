@@ -43,3 +43,4 @@ Actualmente construyendo soluciones tecnológicas reales en **Trujillo, Perú**.
   <img src="https://github-readme-stats.vercel.app/api?username=vivianalvarado&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianalvarado&layout=compact&theme=tokyonight&hide_border=true&card_width=320&hide=html" height="150" alt="languages graph" />
 </div>
+
