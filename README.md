@@ -1,33 +1,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150"/>
-  
+ 
   # Hola, soy Vivian Alvarado 👋
-  ### Desarrolladora Full Stack & Emprendedora Tecnológica
-
+  ### Frontend Developer Junior | Estudiante de Ingeniería de Software
   <a href="https://www.linkedin.com/in/vivianalvarado">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
 
 ---
-
 ### 👩‍💻 Sobre mí
-Actualmente construyendo soluciones tecnológicas reales en **Trujillo, Perú**. Me especializo en arquitectura limpia, **PHP moderno** y optimización de bases de datos. Combino mi formación en SENATI con el liderazgo técnico en proyectos comerciales.
+Estudiante de Ingeniería de Software en SENATI, practicante y enfocada en **frontend puro**. Me apasiona crear interfaces limpias, responsivas y modernas que se vean increíbles en cualquier dispositivo. Actualmente en Trujillo, Perú (con vibes de Lima también 😎). Busco encargos freelance para construir landings, sitios estáticos y mejoras UI/UX.
 
-### 🔭 Proyectos Actuales
-| Proyecto | Rol & Estado | Stack |
-| :--- | :--- | :--- |
-| **🔐 Cell Market Shop** | **Líder Técnica** (Despliegue Nov 2025) | `PHP 8` `Composer` `MySQL` `MVC` |
-| **🌸 Florería Digital** | **Fundadora** (En desarrollo) | `E-commerce` `Retail` `UX/UI` |
+### 🔭 Proyectos Próximos (Frontend Focus)
+- **Portafolio Personal** → En desarrollo (próximo deploy)  
+- **Landing Page Ejemplo** → Responsive para negocio ficticio (próximo)  
+- **Otros proyectos frontend** → HTML/CSS/JS simples y modernos (coming soon)
 
----
+Más proyectos visuales y demos live muy pronto...
 
-### 🛠 Mi Stack Tecnológico
+### 🛠 Mi Stack Frontend (mi especialización actual)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,java,python,linux,git,github,html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,vscode&perline=6" />
 </div>
-
----
 
 ### 🏆 Mis Logros en GitHub
 <div align="center">
@@ -36,11 +31,19 @@ Actualmente construyendo soluciones tecnológicas reales en **Trujillo, Perú**.
   </a>
 </div>
 
----
-
 ### 📊 Mis Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivianalvarado&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianalvarado&layout=compact&theme=tokyonight&hide_border=true&card_width=320&hide=html" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianalvarado&layout=compact&theme=tokyonight&hide_border=true&card_width=320&hide=php,java,python" height="150" alt="languages graph" />
 </div>
 
+---
+### ¿Colaboramos?
+Busco encargos freelance frontend:  
+- Landing pages (desde S/150-400)  
+- Arreglos UI/CSS/JS  
+- Sitios estáticos simples  
+
+¡Contáctame para hacer que tu idea luzca increíble en la web! 🚀  
+LinkedIn: [linkedin.com/in/vivianalvarado](https://www.linkedin.com/in/vivianalvarado)  
+(WhatsApp o email si lo agregas después)
