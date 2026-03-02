@@ -46,4 +46,3 @@ Busco encargos freelance frontend:
 
 ¡Contáctame para hacer que tu idea luzca increíble en la web! 🚀  
 LinkedIn: [linkedin.com/in/vivianalvarado](https://www.linkedin.com/in/vivianalvarado)  
-(WhatsApp o email si lo agregas después)
