@@ -10,7 +10,7 @@
 
 ---
 ### 👩‍💻 Sobre mí
-Estudiante de Ingeniería de Software en SENATI, practicante y enfocada en **frontend puro**. Me apasiona crear interfaces limpias, responsivas y modernas que se vean increíbles en cualquier dispositivo. Actualmente en Trujillo, Perú (con vibes de Lima también 😎). Busco encargos freelance para construir landings, sitios estáticos y mejoras UI/UX.
+Estudiante de Ingeniería de Software en SENATI, practicante y enfocada en **frontend puro**. Me apasiona crear interfaces limpias, responsivas y modernas que se vean increíbles en cualquier dispositivo. Actualmente en Trujillo, Perú. Busco encargos freelance para construir landings, sitios estáticos y mejoras UI/UX.
 
 ### 🔭 Proyectos Próximos (Frontend Focus)
 - **Portafolio Personal** → En desarrollo (próximo deploy)  
