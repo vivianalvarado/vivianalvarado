@@ -40,7 +40,7 @@ Más proyectos visuales y demos live muy pronto...
 ---
 ### ¿Colaboramos?
 Busco encargos freelance frontend:  
-- Landing pages (desde S/150-400)  
+- Landing pages  
 - Arreglos UI/CSS/JS  
 - Sitios estáticos simples  
 
